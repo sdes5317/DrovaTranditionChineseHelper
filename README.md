@@ -15,4 +15,8 @@ xxd -l 64 resources.assets
 ### 2. 補上字幕
 由於之前已有繁體漢化 只是版本不對
 這邊用程式把舊有的漢化覆蓋到新的版本上
+這個目錄下loc的檔案都可以用文字編輯器打開
+```
+steamapps\common\Drova - Forsaken Kin\Drova_Data\StreamingAssets\Localization
+```
 (新的字幕有空再來補翻...)
