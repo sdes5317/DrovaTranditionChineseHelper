@@ -1,5 +1,5 @@
 # Drova 漢化練習
-這款遊戲漢化有兩個步驟
+從`resources.assets`可以判斷這款遊戲是unity, 這款遊戲漢化有兩個步驟.
 ### 1. 更換翻譯
 使用bash指令查看resources.assets的版本來使用拆包工具
 ```
